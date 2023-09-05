@@ -2,7 +2,7 @@
 
 ## About
 
-This is an examination project for the cource Webbprogrammering med JavaScript fördjupning at Borås Yrkeshögskola - Webbutvecklare React.
+This project is a react implementation of a previous project of mine, written in only TypeScript. The aim of this project is to re-factor it into a react project and finish it to production, and host on Netlify or similar platform.
 
 The program is developed by me, [Alexander Esbjörnsson](https://www.linkedin.com/in/alexander-esbjornsson/)
 
@@ -29,6 +29,6 @@ To run the app start by
 1. Clone the repository by typing the following into prefered terminal
    `git clone https://github.com/Esbj/ACNH-Tracker-React.git`
 2. Install dependencies with `npm i`
-3. Copy the .env_example file and name it .env Paste your own API key where it says `[YOUR_API_KEY_HERE]`
+3. Copy the .env_example file and name it .env Paste your own API key where it says `YOUR_API_KEY_HERE`
 4. To start the app in development mode run `npm run dev`
 5. Open up the site in your browser, default is [localhost:5173](https://localhost:5173/)
